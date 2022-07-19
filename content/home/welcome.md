@@ -1,23 +1,17 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
+widget: hero
+widget_id: Welcome
+headless: true
+weight: 10
+title: Welcome!
 hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Being a university student involves a high degree of autonomy and responsibility when it comes to learning. Students are expected to independently structure their learning, use appropriate learning strategies, set learning goals, monitor and evaluate learning outcomes, and maintain motivation to learn—even in the face of difficulties. In other words, students are expected to be *self-regulated and motivated learners*. Self-regulated learning goes hand in hand with critical thinking and problem solving, academic success, and life-long learning. Moreover, students who are motivated are better equipped to persevere and put effort into their learning. Despite these benefits, many students face challenges with self-regulated learning and motivation in their studies and require support.
+
+The focus of this website is to provide students with direct access to information and tools that can help support their self-regulated learning and motivation regulation in an easy-to-understand manner. Moreover, various materials are also provided for teachers and school counsellors to foster knowledge on supporting students’ study habits and strategies to overcome learning and motivation problems.
