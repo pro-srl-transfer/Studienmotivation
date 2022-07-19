@@ -3,7 +3,7 @@ widget: hero
 widget_id: Welcome
 headless: true
 weight: 10
-title: ""
+title: Förderung des selbstregulierten Lernens im Studium
 active: true
 design:
   columns: "1"
