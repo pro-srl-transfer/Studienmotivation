@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: image2.jpg
+    image: ""
     text_color_light: false
     image_darken: 1
 hero_media: welcome.jpg
