@@ -14,7 +14,7 @@ main:
     url: post
     weight: 30
   - name: Project
-    url: people
+    url: project
     weight: 40
   - name: Contact
     url: contact
