@@ -6,7 +6,7 @@ weight: 10
 title: Förderung des selbstregulierten Lernens im Studium
 active: false
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
   background:
