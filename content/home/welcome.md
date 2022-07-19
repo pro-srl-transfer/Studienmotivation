@@ -4,7 +4,7 @@ widget_id: Welcome
 headless: true
 weight: 10
 title: Förderung des selbstregulierten Lernens im Studium
-active: false
+active: true
 design:
   columns: "1"
   css_style: null
