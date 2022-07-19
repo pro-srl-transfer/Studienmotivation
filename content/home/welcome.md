@@ -12,6 +12,7 @@ design:
   background:
     image: image2.jpg
     text_color_light: true
+    image_darken: 0.5
 hero_media: welcome.jpg
 ---
 <br>
