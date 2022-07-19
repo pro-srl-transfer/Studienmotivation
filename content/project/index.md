@@ -1,4 +1,7 @@
 ---
+title: Project
+
 # Files in this folder represent a Widget Page
-type: widget_project
+type: widget_page
 ---
+
