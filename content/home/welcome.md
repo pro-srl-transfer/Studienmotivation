@@ -4,13 +4,14 @@ widget_id: Welcome
 headless: true
 weight: 10
 title: Welcome!
-hero_media: welcome.jpg
+active: true
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
     image: image2.jpg
+hero_media: welcome.jpg
 ---
 <br>
 <Font="#FFFFFF">
