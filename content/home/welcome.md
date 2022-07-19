@@ -3,7 +3,7 @@ widget: hero
 widget_id: Welcome
 headless: true
 weight: 10
-title: Welcome!
+title: ""
 active: true
 design:
   columns: "1"
