@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: tour
+    url: Welcome
     weight: 10
   - name: Student Resources
     url: tour
