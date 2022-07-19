@@ -12,7 +12,7 @@ design:
   background:
     image: ""
     text_color_light: false
-    image_darken: 1
+    image_darken: 0
 hero_media: welcome.jpg
 ---
 <font size="4"><p><p align="justify">
